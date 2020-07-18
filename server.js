@@ -15,14 +15,14 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-mongoose.connect("mongodb://localhost/budget", {
+mongoose.connect("mongodb://localhost/budgettrackerjones", {
   useNewUrlParser: true,
   useFindAndModify: false
 });
 
-// routes
-console.log("Before html-routes.js")
-require("./routes/html-routes.js")(app);
+// // routes
+// console.log("Before html-routes.js")
+// require("./routes/html-routes.js")(app);
 app.use(require("./routes/api.js"));
 
 app.listen(PORT, () => {
