@@ -3,7 +3,7 @@ const router = require("express").Router();
 
 var path = require("path");
 
-Setup routes to 
+// Setup routes to 
 module.exports = function(app){
 
     app.get('/', (req, res) => {
