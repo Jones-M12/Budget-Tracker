@@ -3,7 +3,7 @@ console.log("Giving a shoutout from the service-worker!");
 
 //reference to files to be cached, from public folder
 const FILES_TO_CACHE = [
-    "/",
+    // "/",
     "/index.html",
     "/index.js",
     "/styles.css",
