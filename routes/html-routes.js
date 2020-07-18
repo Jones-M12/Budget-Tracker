@@ -3,16 +3,16 @@ const router = require("express").Router();
 
 var path = require("path");
 
-//Setup routes to 
-// module.exports = function(app){
+Setup routes to 
+module.exports = function(app){
 
-//     app.get('/', (req, res) => {
+    app.get('/', (req, res) => {
 
-//         res.sendFile(path.join(__dirname, "../public/index.html"));
-//       });
+        res.sendFile(path.join(__dirname, "../public/index.html"));
+      });
   
     
     
   
     
-//   };
+  };
