@@ -23,6 +23,10 @@ SO THAT I can stay within my budget.
 Tranistion application to support offline user functionality. User will be able to add transactions offline, which automatically register when online. 
 This makes the application user friendly and enhances the user experience.
 
+Below is an example of what the application may look like:
+
+![Budget Tracker Demo](./Images/budgettracker.png)
+
 
 ## Contact Information
 
