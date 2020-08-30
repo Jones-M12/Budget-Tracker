@@ -8,7 +8,7 @@
 
 ## Overview
 
-Expenses tracking application that is setup to use indexDB or service worker.
+Expenses tracking application that is setup to use indexDB or service worker. Supports ability to add deductions even offline.
 
 ## User Story
 
