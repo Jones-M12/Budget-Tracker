@@ -25,7 +25,22 @@ This makes the application user friendly and enhances the user experience.
 
 Below is an example of what the application may look like:
 
+* Main Screen
+
 ![Budget Tracker Demo](./Images/budgettracker.png)
+
+* This view display the offline and online functionality 
+
+* In the Dev tools, switch network to offline
+
+* Add despots or expenses
+
+* In the Dev tools, switch network to online.
+
+* See all inputs are added instantly without interupptions to user
+
+
+![Budget Tracker Demo](./Images/budgettracker.gif)
 
 
 ## Contact Information
