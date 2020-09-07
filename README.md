@@ -14,13 +14,13 @@ Expenses tracking application that is setup to use indexDB or service worker. Su
 
 As a USER.
 
-I WANT to be track how much money I spend.
+I WANT to track how much money I spend.
 
 SO THAT I can stay within my budget.
 
 ## Development 
 
-Tranistion application to support offline user functionality. User will be able to add transactions offline, which automatically register when online. 
+Transitioned application to support offline user functionality. User will be able to add transactions offline, which automatically register when online. 
 This makes the application user friendly and enhances the user experience.
 
 Below is an example of what the application may look like:
@@ -30,11 +30,8 @@ Below is an example of what the application may look like:
 
 ## Contact Information
 
-* Github: [Jones-M12](https://github.com/Jones-M12) 
+* GitHub: [Jones-M12](https://github.com/Jones-M12) 
 
 * Email: malesharj@gmail.com 
 
-* LindedIn: [m-jones89](https://www.linkedin.com/in/m-jones89/)
-
-
-
+* LinkedIn: [m-jones89](https://www.linkedin.com/in/m-jones89/)
