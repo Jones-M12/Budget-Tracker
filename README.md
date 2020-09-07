@@ -8,7 +8,7 @@
 
 ## Overview
 
-Expenses tracking application that is setup to use indexDB or service worker. Supports ability to add deductions even offline.
+Expenses tracking application that is setup to use indexDB or service worker. Supports ability to add deductions even offline. Currently set with indexDB.
 
 ## User Story
 
@@ -29,7 +29,7 @@ Below is an example of what the application may look like:
 
 ![Budget Tracker Demo](./Images/budgettracker.png)
 
-* This view display the offline and online functionality 
+* This view will display the offline and online functionality 
 
 * In the Dev tools, switch network to offline
 
@@ -37,7 +37,7 @@ Below is an example of what the application may look like:
 
 * In the Dev tools, switch network to online.
 
-* See all inputs are added instantly without interupptions to user
+* See all inputs are added instantly without interruptions to user
 
 
 ![Budget Tracker Demo](./Images/budgettracker.gif)
@@ -49,4 +49,4 @@ Below is an example of what the application may look like:
 
 * Email: malesharj@gmail.com 
 
-* LinkedIn: [m-jones89](https://www.linkedin.com/in/m-jones89/)
+* LinkedIn: [m-jones89](https://www.linkedin.com/in/m-jones89/) 
